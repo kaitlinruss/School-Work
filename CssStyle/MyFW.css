@@ -1,0 +1,37 @@
+
+.body{
+}
+.header{
+    background-color: darkviolet;
+}
+
+.tab{
+    display: inline-block;
+    padding: 15px;
+    border-radius: 5px;
+    border-color:blue;
+    border-width: 2px;
+    border-style: ridge;
+}
+.left-column{
+    width: 29%;
+    float: left;
+    background-color:lightpink;
+    display: block;
+    text-align: center;
+    height: fit-content;
+}
+.right-column{
+    width: 70%;
+    float:right;
+    background-color:lightskyblue;
+}
+.pic{
+    height: 200px;
+    position: relative;
+
+}
+.headline{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
